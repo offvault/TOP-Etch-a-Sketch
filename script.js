@@ -136,4 +136,4 @@ document.body.insertBefore(darkenModeBtn, container);
 document.body.insertBefore(colorModeBtn, container);
 
 // Initial grid
-createGrid(16);
+createGrid(7);
